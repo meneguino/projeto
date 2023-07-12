@@ -42,7 +42,8 @@ body * {
 /* CONTAINER */
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   /* não necessita colocar a altura pois ele se auto coloca.
   height: 712px;
   margin-right: auto;
